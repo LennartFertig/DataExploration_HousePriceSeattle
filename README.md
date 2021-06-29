@@ -8,4 +8,4 @@ Ziel: Wir wollen Hauspreise durch die Anwendung von Regressions-Modellen vorhers
 
 Datensatz: https://www.kaggle.com/harlfoxem/housesalesprediction
 
-Abgabe: 06.07.21
+Abgabe: 13.07.21, 12 Uhr
